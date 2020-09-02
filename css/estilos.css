@@ -36,9 +36,20 @@ background-color: #333;
 {
     font-size: 2em;
 }
+
 #logo
 {
     width: 3em;
     height: 3em;
     vertical-align: middle;
+}
+#footer
+{
+    background-color: slategrey;
+    padding: 1em;
+    color: white;
+    text-align: center;
+    border-radius: 0.6em;
+    margin-top: 3em;
+
 }
