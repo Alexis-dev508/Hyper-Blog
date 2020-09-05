@@ -10,6 +10,9 @@ Un repositorio increible para el curso de git de platzi
 - Incorporación de repo a Git
 - Buenas prácticas
 - Creado por el increible platziteam
+- creado por el increible platziteam
+- Incluye ejemplos en Windows, Linux y MAC.
+- Disponible para todas las edades
 
 ### Mi experiencia en el curso❤
 Este curso me ha parecido demasiado bueno, he tenido la oprtunidad de tomar otros cursos de Git en Youtube y otras platafomras, pero nunca habia llegado tan lejos como con el curso de Platzi. Este curso te invita y te emociona para continuar aprendiendo y siempre quieres más y más. Además, Freddy es muy gracioso. 😂😂😊
